@@ -1,0 +1,7 @@
+@use '../../theme/colors' as colors;
+
+.body {
+  // display: flex;
+  background-color: colors.$WHITE;
+  height: 100vh,
+}

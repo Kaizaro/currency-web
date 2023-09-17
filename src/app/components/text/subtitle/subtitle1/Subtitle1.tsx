@@ -9,4 +9,4 @@ const Subtitle1: IDefaultFC<IDefaultText> = ({text}) => {
   );
 };
 
-export {Subtitle1 as Body1};
+export {Subtitle1};

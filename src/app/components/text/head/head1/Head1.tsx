@@ -9,4 +9,4 @@ const Head1: IDefaultFC<IDefaultText> = ({text}) => {
   );
 };
 
-export {Head1 as Body1};
+export {Head1};

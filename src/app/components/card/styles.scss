@@ -1,0 +1,11 @@
+@use '../../theme/colors.scss' as colors;
+
+.card {
+  flex: 1;
+  padding-block: 12px;
+  padding-inline: 12px;
+  background-color: colors.$GREY_4;
+  border-width: 1px;
+  border-color: wheat;
+  // background-color: '#F7F7F7';
+}
